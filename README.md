@@ -19,7 +19,7 @@ and an in-memory database?)
 HTTPS support
 
 ## RFC
-Review this: (https://tools.ietf.org/html/draft-ietf-httpbis-http2-04)
+Review this: https://tools.ietf.org/html/draft-ietf-httpbis-http2-04
 
 ## Code Style Guidelines
 To contribute code, your code must conform to these guidelines:
@@ -35,5 +35,5 @@ To contribute code, your code must conform to these guidelines:
 ## Pull Requests
 Pull requests to fulfill featured items are welcome, but must  
 1) be a separate branch from the main one,  
-2) conform to the above code style guidelines, and
+2) conform to the above code style guidelines, and  
 3) have unit tests passing at least on Windows
