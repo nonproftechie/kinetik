@@ -31,6 +31,7 @@ To contribute code, your code must conform to these guidelines:
 - all `if` statements require brackets
 - use properties instead of getters and setters
 - use generics instead of type casting
+- use `StringBuilder` instead of string concatenation
 
 ## Pull Requests
 Pull requests to fulfill featured items are welcome, but must  
