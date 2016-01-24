@@ -27,10 +27,10 @@ To contribute code, your code must conform to these guidelines:
 - constants are `ALLCAPS`
 - classes are `PascalCase`
 - functions are `camelCase`
+- functions should be less than 70 lines of code
 - all `if` statements require brackets
 - use properties instead of getters and setters
-- functions should be less than 70 lines of code
-- `ArrayList` should be avoided.  Use `List<T>` instead.
+- use generics instead of type casting
 
 ## Pull Requests
 Pull requests to fulfill featured items are welcome, but must  
