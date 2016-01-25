@@ -30,7 +30,7 @@ To contribute code, your code must conform to these guidelines:
 - functions should be less than 70 lines of code
 - all `if` statements require brackets
 - use properties instead of getters and setters
-- use generics instead of type casting
+- prefer generics over type casting
 - use `StringBuilder` instead of string concatenation
 - avoid `unsafe` code
 
